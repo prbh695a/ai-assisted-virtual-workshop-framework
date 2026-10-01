@@ -117,7 +117,7 @@ The video helps participants understand:
 
 ### Watch the Participant Guide
 
-[▶ Participant Training Video](./https://github.com/prbh695a/ai-assisted-virtual-workshop-framework/blob/d7ab6cc806e3641b7615ac82f907017d52f511ca/Workshop%20Participant%20Guide_EN_Microsoft%20Whiteboard.mp4)
+[▶ Watch Workshop Participant Guide — English (Microsoft Whiteboard)](https://github.com/prbh695a/ai-assisted-virtual-workshop-framework/blob/d7ab6cc806e3641b7615ac82f907017d52f511ca/Workshop%20Participant%20Guide_EN_Microsoft%20Whiteboard.mp4)
 
 ---
 
