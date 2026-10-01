@@ -117,9 +117,7 @@ The video helps participants understand:
 
 ### Watch the Participant Guide
 
-[▶ Participant Training Video](./YOUR_VIDEO_FILENAME.mp4)
-
-> Replace `YOUR_VIDEO_FILENAME.mp4` with the actual filename used in this repository.
+[▶ Participant Training Video](./Workshop Participant Guide_EN_Microsoft Whiteboard.mp4)
 
 ---
 
